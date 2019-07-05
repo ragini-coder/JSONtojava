@@ -1,0 +1,164 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\03629803390bfe3e97272014720424bd\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\7b0d8a7b7c96c448c0dc73d936fb5273\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\2c278d86309c616d42531fb4caffe808\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\253432dd35bdda49f40c9f42627af367\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\2d29d86d5bd2fd16423fac5c010e2378\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\ce8cbfe3e66449899c673d1fb40a8c08\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\bc266a217d89cf5fee27111da03e6e1d\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\3f32acca5783320cdc1184f299372fdf\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\acd9f670c700d76eaf72110f2459fa81\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\6b05c157532ad91a93c6019c5054bf66\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\2c1679fa5b3cb5ea1c8865c907e5c689\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\393fe40f1494940d104bbcf6b0e42e78\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\6fb9df18533058cf5de5a7a65d2657fa\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\a33782b2b9931a4b032cf6ac2a7cceba\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\5d54b6099ee041e44e6bb9ab84016d53\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\f096b3f8b3f2d1c2251b078b4e1f10ff\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\dbe17d1177796b1ca12751f6963bee33\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\e0a74940f0a4b4c6938bb98b682ccd76\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\7a78cf6b3229145895c2014542a2dee9\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\59a3558cce78c667ef09a22ed78738f5\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\98159fde65acb915ec20d66be610767f\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\10c096301c8dd774b03df4c9a8d38df9\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\14e1c91fbb64e5d7dbe406cb885598ca\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\41127f06e0461a697589ffb533c9a879\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\36d7b6d6169608c23ae42000c81373f7\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\4c176b1f80f90ff10699f738b861069e\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\effce475b50b913c34cafb8635b4214d\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\3a9f205d97551c501f91cd7542723a79\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\681f68575a0f6bcd3743b8f4649c0c5a\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml
+		INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml
+		ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml
+		ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\7b0d8a7b7c96c448c0dc73d936fb5273\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\7b0d8a7b7c96c448c0dc73d936fb5273\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\e0a74940f0a4b4c6938bb98b682ccd76\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\e0a74940f0a4b4c6938bb98b682ccd76\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\7a78cf6b3229145895c2014542a2dee9\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\7a78cf6b3229145895c2014542a2dee9\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\e0a74940f0a4b4c6938bb98b682ccd76\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.jsontojava.MainActivity
+ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml
+INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\03629803390bfe3e97272014720424bd\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\03629803390bfe3e97272014720424bd\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\7b0d8a7b7c96c448c0dc73d936fb5273\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\7b0d8a7b7c96c448c0dc73d936fb5273\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\2c278d86309c616d42531fb4caffe808\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\2c278d86309c616d42531fb4caffe808\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\253432dd35bdda49f40c9f42627af367\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\253432dd35bdda49f40c9f42627af367\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\2d29d86d5bd2fd16423fac5c010e2378\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\2d29d86d5bd2fd16423fac5c010e2378\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\ce8cbfe3e66449899c673d1fb40a8c08\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\ce8cbfe3e66449899c673d1fb40a8c08\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\bc266a217d89cf5fee27111da03e6e1d\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\bc266a217d89cf5fee27111da03e6e1d\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\3f32acca5783320cdc1184f299372fdf\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\3f32acca5783320cdc1184f299372fdf\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\acd9f670c700d76eaf72110f2459fa81\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\acd9f670c700d76eaf72110f2459fa81\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\6b05c157532ad91a93c6019c5054bf66\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\6b05c157532ad91a93c6019c5054bf66\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\2c1679fa5b3cb5ea1c8865c907e5c689\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\2c1679fa5b3cb5ea1c8865c907e5c689\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\393fe40f1494940d104bbcf6b0e42e78\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\393fe40f1494940d104bbcf6b0e42e78\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\6fb9df18533058cf5de5a7a65d2657fa\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\6fb9df18533058cf5de5a7a65d2657fa\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\a33782b2b9931a4b032cf6ac2a7cceba\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\a33782b2b9931a4b032cf6ac2a7cceba\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\5d54b6099ee041e44e6bb9ab84016d53\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\5d54b6099ee041e44e6bb9ab84016d53\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\f096b3f8b3f2d1c2251b078b4e1f10ff\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\f096b3f8b3f2d1c2251b078b4e1f10ff\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\dbe17d1177796b1ca12751f6963bee33\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\dbe17d1177796b1ca12751f6963bee33\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\e0a74940f0a4b4c6938bb98b682ccd76\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\e0a74940f0a4b4c6938bb98b682ccd76\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\7a78cf6b3229145895c2014542a2dee9\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\7a78cf6b3229145895c2014542a2dee9\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\59a3558cce78c667ef09a22ed78738f5\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\59a3558cce78c667ef09a22ed78738f5\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\98159fde65acb915ec20d66be610767f\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\98159fde65acb915ec20d66be610767f\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\10c096301c8dd774b03df4c9a8d38df9\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\10c096301c8dd774b03df4c9a8d38df9\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\14e1c91fbb64e5d7dbe406cb885598ca\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\14e1c91fbb64e5d7dbe406cb885598ca\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\41127f06e0461a697589ffb533c9a879\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\41127f06e0461a697589ffb533c9a879\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\36d7b6d6169608c23ae42000c81373f7\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\36d7b6d6169608c23ae42000c81373f7\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\4c176b1f80f90ff10699f738b861069e\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\4c176b1f80f90ff10699f738b861069e\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\effce475b50b913c34cafb8635b4214d\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\effce475b50b913c34cafb8635b4214d\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\3a9f205d97551c501f91cd7542723a79\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\3a9f205d97551c501f91cd7542723a79\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\681f68575a0f6bcd3743b8f4649c0c5a\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ragini\.gradle\caches\transforms-2\files-2.1\681f68575a0f6bcd3743b8f4649c0c5a\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml
+INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml
+		ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml
+		INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml
+		ADDED from E:\retfrofit\app\src\main\AndroidManifest.xml
+		INJECTED from E:\retfrofit\app\src\main\AndroidManifest.xml

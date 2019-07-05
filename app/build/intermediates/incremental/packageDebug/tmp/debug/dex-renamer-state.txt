@@ -1,0 +1,4 @@
+#Fri Jul 05 16:16:24 IST 2019
+base.0=E\:\\retfrofit\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
